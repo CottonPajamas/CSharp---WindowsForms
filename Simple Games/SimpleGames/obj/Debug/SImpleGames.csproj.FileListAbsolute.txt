@@ -1,0 +1,15 @@
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SImpleGames\bin\Debug\Example UI 1.3a.exe.config
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SImpleGames\bin\Debug\Example UI 1.3a.exe
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SImpleGames\bin\Debug\Example UI 1.3a.pdb
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SImpleGames\obj\Debug\SImpleGames.csprojResolveAssemblyReference.cache
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SImpleGames\obj\Debug\Example_UI_1._3a.Form1.resources
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SImpleGames\obj\Debug\Example_UI_1._3a.My_Second_Form.resources
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SImpleGames\obj\Debug\Example_UI_1._3a.Properties.Resources.resources
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SImpleGames\obj\Debug\SImpleGames.csproj.GenerateResource.Cache
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SImpleGames\obj\Debug\SImpleGames.csproj.CoreCompileInputs.cache
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SImpleGames\obj\Debug\Example UI 1.3a.exe
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SImpleGames\obj\Debug\Example UI 1.3a.pdb
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SimpleGames\obj\Debug\Example_UI_1._3a.DragonCatching2.resources
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SimpleGames\obj\Debug\Example_UI_1._3a.DragonCatching3.resources
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SimpleGames\obj\Debug\Example_UI_1._3a.DragonCatching1.resources
+C:\Users\Achilles\Google Drive\Practice - C#\Winforms\Simple Games\SimpleGames\obj\Debug\Example_UI_1._3a.DragonHunter.resources

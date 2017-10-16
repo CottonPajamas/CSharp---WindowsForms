@@ -1,0 +1,19 @@
+Hi there random stranger,
+
+This is a small test system build to enquire the status and information of vehicles owned by a company. It is build using a controller and Data Access Object (DAO) class to query an attached primary database file (.mdf). Hence, the import of a separate database file to MSServer will not be necessary for this program to run. You can simply download and run it as it is! :D
+
+To test out the system, simply key in the vehicle's car plate number in the topmost textbox. You are then able to retrieve the status and other details regarding the vehicle by simply keying 'Enter' or by pressing the 'Submit' button.
+
+Taken from the database file, some of which you can try are:
+
+FKD8202
+GLS7625
+GLZ2376
+HGF5628
+HJK1234
+HNX1890
+JLS1097
+
+
+Best regards,
+Prototype09
